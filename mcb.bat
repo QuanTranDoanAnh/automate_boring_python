@@ -1,0 +1,1 @@
+@pyw.exe D:\programming-new\automate_boring_python\mcb.pyw %*
